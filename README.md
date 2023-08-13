@@ -21,7 +21,7 @@ The QR Code Generator is a Node.js application that allows users to input a URL 
 3. Run the following command to install the required dependencies:
 
 ```bash
-npm install
+npm install inquirer qr-image
 ```
 
 ## Contribution
